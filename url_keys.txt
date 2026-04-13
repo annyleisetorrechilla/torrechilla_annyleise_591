@@ -1,0 +1,2 @@
+url = https://mobrmxjaxcduivacxtfc.supabase.co
+anonkey = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1vYnJteGpheGNkdWl2YWN4dGZjIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzExNzczMzQsImV4cCI6MjA4Njc1MzMzNH0.XQL67TCagXHJBrV7XlV4YUIWz5Fs0kcEZrExFPkN4jU

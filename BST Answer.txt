@@ -1,0 +1,15 @@
+1. What happens when you insert duplicate values? Modify the code to handle this case.
+
+Duplicate values can break the tree rules. A common solution is to ignore duplicates or always insert them on one side.
+
+2. How would you implement a function to delete a node from the BST?
+
+If the node has no child, remove it. If it has one child, replace it with that child. If it has two children, replace it with the next larger value, then delete that value.
+
+3. What are the differences between balanced and unbalanced BSTs?
+
+A balance BST keeps its height shorter, so searching, inserting, and deleting are fast.
+
+4. How can you convert this BST into a self-balancing BST (e.g., AVL tree)?
+
+To convert a BST into a AVL Tree, you keep track of each node's height and check its balance factor after every insertion or deletion. If the tree becomes unbalanced, you apply the appropriate rotation (LL, RR, LR, or RL) bst restore balance.
