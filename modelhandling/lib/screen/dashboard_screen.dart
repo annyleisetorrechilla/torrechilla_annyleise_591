@@ -50,6 +50,7 @@ class DashboardPage extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               // Profile Avatar
+              
               CircleAvatar(
                 radius: 60,
                 backgroundColor: Colors.indigo,
@@ -65,6 +66,7 @@ class DashboardPage extends StatelessWidget {
               const SizedBox(height: 20),
 
               // Welcome Text
+              
               Text(
                 'Welcome, $username!',
                 style: const TextStyle(
